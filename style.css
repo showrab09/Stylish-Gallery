@@ -1,0 +1,14 @@
+.s {
+  width: 200px;
+}
+body {
+  background: rgba(241, 187, 116, 0.26);
+}
+img {
+  transition: 0.3s;
+  cursor: pointer;
+  border-radius: 5px;
+}
+img:hover {
+  transform: scale(0.95);
+}
